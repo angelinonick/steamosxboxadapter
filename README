@@ -1,0 +1,1 @@
+Just place the script inside whatever location or folder that you want it to run at. It will create a folder called "xone" from cloning the xone code repo. This code repo / folder contains all the code required for the xbox adapter driver. It also houses the install and uninstall script for xone. 
