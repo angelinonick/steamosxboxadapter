@@ -38,7 +38,8 @@ HOW TO USE
 1. Open Konsole
     
     
-        Many ways to do this, you can go to the steam deck icon at the bottom left, click it, then search Konsole. Or alternatively it is under the "System" folder in the search menu.
+        Many ways to do this, you can go to the steam deck icon at the bottom left, click it, then search Konsole.
+        Or alternatively it is under the "System" folder in the search menu.
     
     
 2. Clone this repo
