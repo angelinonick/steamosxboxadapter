@@ -25,6 +25,7 @@ PREREQUISTIE
 ##########
 HOW TO USE
 ##########
+
 1. Open Konsole
     
     Many ways to do this, you can go to the steam deck icon at the bottom left, click it, then search Konsole. Or alternatively it is under the "System" folder in the search menu.
@@ -33,13 +34,19 @@ HOW TO USE
 
     git clone https://github.com/angelinonick/steamosxboxadapter.git
 
-3. Set the installscript.sh permissions to be able to execute
+3. Navigate into the folder that just got cloned
 
-    chmod 744 installscript.sh
+    cd steamosxboxadapter
 
-4. Elevate your current permissions to root
+
+4. Set the installscript.sh permissions to be able to execute (it should already be set with 755 permissons, but in case it isn't)
+
+    chmod 755 installscript.sh
+
+5. Elevate your current permissions to root
 
     sudo su 
     
-5. Execute the installation script
+6. Execute the installation script
     
+    ./installscript.sh
